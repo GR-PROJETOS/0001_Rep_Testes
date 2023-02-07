@@ -3,4 +3,3 @@
 ```
 Primeiro repositório para testes
 ```
-:)
